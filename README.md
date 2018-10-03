@@ -1,4 +1,6 @@
 # JavaLearning
 
 Starting my Java Journey from zero to hero
-Here I'll track my learning and projects
+I'll track my learning and projects
+
+Each folder will contain challenges and projects I worked on relavent to the name
